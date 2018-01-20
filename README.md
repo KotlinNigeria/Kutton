@@ -1,6 +1,6 @@
 # Kutton
-This is a Kotlin application that uses TornadoFx to display a Button and InputText.
+This is a Kotlin application that uses JavaFx to display a Button and InputText.
 
-##To Run
+## To Run
 ./gradlew run
 
